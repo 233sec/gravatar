@@ -13,14 +13,14 @@ class Gravatar {
 	 *
 	 * @var string
 	 */
-	private $publicBaseUrl = 'http://www.gravatar.com/avatar/';
+	private $publicBaseUrl = 'http://gravatar.css.network/avatar/';
 
 	/**
 	 * Gravatar secure base url
 	 *
 	 * @var string
 	 */
-	private $secureBaseUrl = 'https://secure.gravatar.com/avatar/';
+	private $secureBaseUrl = 'http://gravatar.css.network/avatar/';
 
 	/**
 	 * Email address to check
